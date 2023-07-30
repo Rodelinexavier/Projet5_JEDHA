@@ -1,0 +1,8 @@
+unicorn
+numpy
+streamlit
+seaborn
+plotly
+matplotlib
+pandas
+
